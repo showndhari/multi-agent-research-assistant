@@ -1,0 +1,7 @@
+langgraph
+anthropic
+requests
+beautifulsoup4
+streamlit
+python-dotenv
+pytest
